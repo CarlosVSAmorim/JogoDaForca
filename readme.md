@@ -1,6 +1,7 @@
 ﻿# Jogo da Forca
 
 Este é um jogo da forca desenvolvido em C#. O jogador deve adivinhar a palavra secreta escolhida aleatoriamente dentro de uma categoria.
+
 ![GIF online](https://i.imgur.com/vRkEq9M.gif)
 
 ## Funcionalidades
