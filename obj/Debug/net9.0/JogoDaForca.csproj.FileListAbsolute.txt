@@ -1,0 +1,14 @@
+C:\Users\Carlos\RiderProjects\JogoDaForca\bin\Debug\net9.0\JogoDaForca.exe
+C:\Users\Carlos\RiderProjects\JogoDaForca\bin\Debug\net9.0\JogoDaForca.deps.json
+C:\Users\Carlos\RiderProjects\JogoDaForca\bin\Debug\net9.0\JogoDaForca.runtimeconfig.json
+C:\Users\Carlos\RiderProjects\JogoDaForca\bin\Debug\net9.0\JogoDaForca.dll
+C:\Users\Carlos\RiderProjects\JogoDaForca\bin\Debug\net9.0\JogoDaForca.pdb
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.AssemblyInfoInputs.cache
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.AssemblyInfo.cs
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.dll
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\refint\JogoDaForca.dll
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.pdb
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.genruntimeconfig.cache
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\ref\JogoDaForca.dll
