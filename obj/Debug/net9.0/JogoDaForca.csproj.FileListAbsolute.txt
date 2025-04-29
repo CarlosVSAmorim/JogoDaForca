@@ -12,3 +12,4 @@ C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\refint\JogoDaForca.dl
 C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.pdb
 C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.genruntimeconfig.cache
 C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\ref\JogoDaForca.dll
+C:\Users\Carlos\RiderProjects\JogoDaForca\obj\Debug\net9.0\JogoDaForca.sourcelink.json
